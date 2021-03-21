@@ -1,0 +1,16 @@
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.exe
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.deps.json
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.runtimeconfig.json
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.runtimeconfig.dev.json
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.dll
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\ref\Moonlight-Whispers-Of-The-Night.dll
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\bin\Debug\net5.0\Moonlight-Whispers-Of-The-Night.pdb
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.dll
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\ref\Moonlight-Whispers-Of-The-Night.dll
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.pdb
+C:\Users\User\Documents\GitHub\Moonlight-Whispers-Of-The-Night\obj\Debug\net5.0\Moonlight-Whispers-Of-The-Night.genruntimeconfig.cache
